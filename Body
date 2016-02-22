@@ -44,7 +44,7 @@
 		<td width="670">{_UserLocation/_Location}<td>
 	</tr>
 	<tr>
-		<td width="130" align="right"><b>Computername:</b></td>
+		<td width="130" align="right"><b>Devicename:</b></td>
 		<td width="670">{_txtComputerName}</td>
 	</tr>
 	<tr>
